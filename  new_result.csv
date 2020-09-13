@@ -1,0 +1,11 @@
+text.sentiment;text.count
+1;anger;21
+2;anticipation;41
+3;disgust;10
+4;fear;25
+5;joy;39
+6;sadness;22
+7;surprise;27
+8;trust;47
+9;negative;40
+10;positive;85
